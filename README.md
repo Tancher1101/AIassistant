@@ -1,6 +1,7 @@
 # ИИ-ассистент для компании по установке окон
 
 Ссылка на проект https://t.me/narokna1101_bot
+
 ![Скриншот](https://github.com/Tancher1101/AIassistant/blob/main/скрин.JPG)
 
 ## Описание проекта
